@@ -1,24 +1,29 @@
 
-<!-- Hiệu ứng chữ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Thien+Nguyenn;Welcome+to+my+GitHub+Profile;Backend+Developer)](https://git.io/typing-svg)
+
+<!-- Hiệu ứng chữ căn giữa -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Thien+Nguyenn;Welcome+to+my+GitHub+Profile;I'm+passionate+on+coding!;Always+learning+new+things!" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <!-- Ảnh động cute -->
 <p align="center">
-  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="200" alt="cute gif">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbno3cWhlaDI3N3ljcXBjOTZrMXV5cDc3M3Axd3lmMGdpbW9ydnJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.gif" width="200" alt="cute gif">
 </p>
 
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🌱 Currently learning **Laravel, React, Docker**
-- 💼 Working on **E-commerce & Web Applications**
 - 💬 Ask me about **PHP, JavaScript, TypeScript, SQL**
 - 📫 Reach me at: **thiennguyen5432@gmail.com**
 
 ---
 
-## 🛠 Skills
+## Skills
 **Languages:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +39,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiennguyenn&show_icons=true&theme=radical&custom_title=ThiennNguyen012's%20GitHub%20Stat" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiennguyenn&layout=compact&theme=radical" />
@@ -42,7 +47,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Thiennguynn012/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiennguyen5432@gmail.com)
