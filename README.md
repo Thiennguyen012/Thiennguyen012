@@ -1,15 +1,19 @@
-<table style="margin:auto; vertical-align:middle;">
-  <tr>
-    <td style="vertical-align:middle; padding-right:20px;">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Thien+Nguyenn;Welcome+to+my+GitHub+Profile;I'm+passionate+on+coding!;Always+learning+new+things!" alt="Typing SVG" />
-      </a>
-    </td>
-    <td style="vertical-align:middle;">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbno3cWhlaDI3N3ljcXBjOTZrMXV5cDc3M3Axd3lmMGdpbW9ydnJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.gif" width="180" alt="cute gif" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="vertical-align:middle;">
+    <tr>
+      <td style="vertical-align:middle; text-align:center; padding-right:20px;">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;I'm+Thien+Nguyenn;Passionate+about+coding!;Always+learning+new+things!" alt="Typing SVG" />
+        </a>
+      </td>
+      <td style="vertical-align:middle; text-align:center;">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbno3cWhlaDI3N3ljcXBjOTZrMXV5cDc3M3Axd3lmMGdpbW9ydnJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.gif" height="200" alt="cute gif" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 
 
