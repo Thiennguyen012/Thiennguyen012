@@ -1,5 +1,5 @@
 <!-- Hiệu ứng chữ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Thien+Nguyenn;Welcome+to+my+GitHub+Profile;Fullstack+Developer+%7C+Laravel+%7C+React;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Thien+Nguyenn;Welcome+to+my+GitHub+Profile;Backend+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 ---
 
