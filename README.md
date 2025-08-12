@@ -7,7 +7,7 @@
         </a>
       </td>
       <td style="vertical-align:middle; text-align:center;">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbno3cWhlaDI3N3ljcXBjOTZrMXV5cDc3M3Axd3lmMGdpbW9ydnJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.gif" height="300" alt="cute gif" />
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbno3cWhlaDI3N3ljcXBjOTZrMXV5cDc3M3Axd3lmMGdpbW9ydnJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.gif" height="250" alt="cute gif" />
       </td>
     </tr>
   </table>
