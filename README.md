@@ -7,7 +7,7 @@
         </a>
       </td>
       <td style="vertical-align:middle; text-align:center;">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbno3cWhlaDI3N3ljcXBjOTZrMXV5cDc3M3Axd3lmMGdpbW9ydnJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.gif" height="200" alt="cute gif" />
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbno3cWhlaDI3N3ljcXBjOTZrMXV5cDc3M3Axd3lmMGdpbW9ydnJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.gif" height="300" alt="cute gif" />
       </td>
     </tr>
   </table>
@@ -49,11 +49,24 @@
 
 ---
 
+
+
+
 ## GitHub Stats
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiennguyenn&show_icons=true&theme=radical&custom_title=ThiennNguyen012's%20GitHub%20Stat" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiennguyenn&layout=compact&theme=radical" />
 </p>
+
+---
+
+<section align="center">
+  <div align="center">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVzOXhmODVtNXZmZzR5ZG1mbmZ1M2FmbXFvdzBwZ2xuZGgyaHl2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXxWO0pgGEma8W40A9/giphy.gif"
+         alt="Lanscape pixel"
+         width="750" />
+  </div>
+</section>
 
 ---
 
