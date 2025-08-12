@@ -1,5 +1,12 @@
+
 <!-- Hiệu ứng chữ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Thien+Nguyenn;Welcome+to+my+GitHub+Profile;Backend+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Thien+Nguyenn;Welcome+to+my+GitHub+Profile;Backend+Developer)](https://git.io/typing-svg)
+
+<!-- Ảnh động cute -->
+<p align="center">
+  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="200" alt="cute gif">
+</p>
+
 
 ---
 
@@ -7,7 +14,7 @@
 - 🌱 Currently learning **Laravel, React, Docker**
 - 💼 Working on **E-commerce & Web Applications**
 - 💬 Ask me about **PHP, JavaScript, TypeScript, SQL**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **thiennguyen5432@gmail.com**
 
 ---
 
@@ -29,7 +36,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiennguyenn&show_icons=true&theme=radical&custom_title=Thien%20Nguyen's%20GitHub%20Stat" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiennguyenn&show_icons=true&theme=radical&custom_title=ThiennNguyen012's%20GitHub%20Stat" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiennguyenn&layout=compact&theme=radical" />
 </p>
 
