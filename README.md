@@ -20,6 +20,7 @@
 ---
 
 ## About me
+- 🏫 Currently studying at **Academy of Cryptography Techniques - KMA**
 - 🌱 Currently learning **Laravel, React, Docker**
 - 💬 Ask me about **PHP, JavaScript, TypeScript, SQL**
 - 📫 Reach me at: **thiennguyen5432@gmail.com**
@@ -38,6 +39,7 @@
 
 **Frameworks & Tools:**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
