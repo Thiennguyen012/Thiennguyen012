@@ -3,7 +3,7 @@
     <tr>
       <td style="vertical-align:middle; text-align:center; padding-right:20px;">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;I'm+Thien+Nguyen;Passionate+about+coding!;Always+learning+new+things!" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;I'm+ThienNguyenn;Passionate+about+coding!;Always+learning+new+things!" alt="Typing SVG" />
         </a>
       </td>
       <td style="vertical-align:middle; text-align:center;">
