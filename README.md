@@ -1,22 +1,21 @@
+<table style="margin:auto; vertical-align:middle;">
+  <tr>
+    <td style="vertical-align:middle; padding-right:20px;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Thien+Nguyenn;Welcome+to+my+GitHub+Profile;I'm+passionate+on+coding!;Always+learning+new+things!" alt="Typing SVG" />
+      </a>
+    </td>
+    <td style="vertical-align:middle;">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbno3cWhlaDI3N3ljcXBjOTZrMXV5cDc3M3Axd3lmMGdpbW9ydnJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.gif" width="180" alt="cute gif" />
+    </td>
+  </tr>
+</table>
 
-
-<!-- Hiệu ứng chữ căn giữa -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Thien+Nguyenn;Welcome+to+my+GitHub+Profile;I'm+passionate+on+coding!;Always+learning+new+things!" alt="Typing SVG" />
-  </a>
-</p>
-
-
-<!-- Ảnh động cute -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbno3cWhlaDI3N3ljcXBjOTZrMXV5cDc3M3Axd3lmMGdpbW9ydnJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.gif" width="200" alt="cute gif">
-</p>
 
 
 ---
 
-## About Me
+## About me
 - 🌱 Currently learning **Laravel, React, Docker**
 - 💬 Ask me about **PHP, JavaScript, TypeScript, SQL**
 - 📫 Reach me at: **thiennguyen5432@gmail.com**
@@ -28,7 +27,10 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 
 **Frameworks & Tools:**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
