@@ -29,7 +29,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiennguyenn&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiennguyenn&show_icons=true&theme=radical&custom_title=Thien%20Nguyen's%20GitHub%20Stat" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiennguyenn&layout=compact&theme=radical" />
 </p>
 
