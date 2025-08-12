@@ -3,7 +3,7 @@
     <tr>
       <td style="vertical-align:middle; text-align:center; padding-right:20px;">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;I'm+Thien+Nguyenn;Passionate+about+coding!;Always+learning+new+things!" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;I'm+Thien+Nguyen;Passionate+about+coding!;Always+learning+new+things!" alt="Typing SVG" />
         </a>
       </td>
       <td style="vertical-align:middle; text-align:center;">
@@ -41,7 +41,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
@@ -60,4 +62,4 @@
 
 ---
 
-⭐️ From [ThienNguyenn](https://github.com/Thiennguyenn012)
+⭐️ From [ThienNguyenn](https://github.com/Thiennguyen012)
