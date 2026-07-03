@@ -21,7 +21,7 @@
 
 ## About me
 - 🏫 Currently studying at **Academy of Cryptography Techniques - KMA**
-- 🌱 Currently learning **Laravel, React, Docker**
+- 🌱 Backend Developer
 - 💬 Ask me about **PHP, JavaScript, TypeScript, SQL**
 - 📫 Reach me at: **thiennguyen5432@gmail.com**
 
